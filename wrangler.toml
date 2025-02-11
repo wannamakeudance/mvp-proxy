@@ -2,4 +2,5 @@ name = "mvp-proxy"
 type = "javascript"
 account_id = "6a3a1355e4194c8d9f37d80eeac7ea95"
 workers_dev = true
-main = "index.js"  # 这里是关键，指定入口文件
+main = "index.js"  
+compatibility_date = "2025-02-11"
