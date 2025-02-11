@@ -1,4 +1,4 @@
-name = "openai-proxy-worker"
+name = "mvp-proxy"
 type = "javascript"
 account_id = "6a3a1355e4194c8d9f37d80eeac7ea95"
 workers_dev = true
